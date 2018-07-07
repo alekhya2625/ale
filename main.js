@@ -41,6 +41,13 @@ child2.appendChild(careerHr);
 var eduTable=document.createElement("table");
 eduTable.border="1";
 var tr1="<tr><td>Degree</td><td>INSTITUTE</td><td>Data</td></tr>";
-eduTable.innerHTML=tr1;
+//eduTable.innerHTML=tr1;
+var tr2="";
+for(var i=0;i<edu.length;i++)
+{
+  tr2+="<tr><td>"+edu[i].degree+"</td><td>"+edu[i].institute+"</td><td>"+edu[i].data+"</td></tr>";
+
+}
+eduTable.innerHTML=tr1+tr2;
 child2.appendChild(eduTable);
 }
