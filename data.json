@@ -1,7 +1,27 @@
 {
   "profile":{
-    "name":"Alekya T",
+    "name":" Tatikonda Alekhya ",
     "label":"fresher",
-    "email":"hi@gmail.com"
+    "email":"tatikonda.alekhya@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(computer science and engineering)",
+      "institute":"PVP Siddhartha institute of technology",
+      "data":["2016-2020","9.71"]
+  },
+  {
+    "degree":"Intermediate(M.P.C)",
+    "institute":"NARAYANA JUNIOR COLLEGE",
+    "data":["2015-2016","97.4%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"KENDRIYA VIDAYALAYA HAKIMPET",
+    "data":["2014","10"]
   }
+]
 }
