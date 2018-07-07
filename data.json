@@ -23,5 +23,23 @@
     "institute":"KENDRIYA VIDAYALAYA HAKIMPET",
     "data":["2014","10"]
   }
+],
+"skills":[
+  {
+    "title":"languages",
+    "content":["c","python","java","c#","c++","PHP","R"]
+  },
+  {
+    "title":"database",
+    "content":["SQL","MySql","mongoDB","oracle"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS","javascript","PHP"]
+  },
+  {
+    "title":"Frameworks",
+    "content":["django","CodeIgniter"]
+  }
 ]
 }
